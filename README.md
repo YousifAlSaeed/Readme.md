@@ -26,3 +26,7 @@
 ## horizontal
  ---
  ##  rule
+
+```
+A BLOCK OF CODE A BLOCK OF CODE
+```
