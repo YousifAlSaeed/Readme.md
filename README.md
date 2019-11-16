@@ -1,5 +1,5 @@
-# My name is Youisf Al Saeed and this is Header level 1
-## Haader level 2 
+# My name is Youisf Al Saeed and this is header level 1
+## Header level 2 
  _This is supposed to be an **italicized** sentence_  
  **And this is supposed to be a _bold_ sentecnce**   
  
